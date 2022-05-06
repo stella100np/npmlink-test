@@ -1,0 +1,17 @@
+{
+  "name": "hellobuild",
+  "version": "1.0.0",
+  "description": "test unbuild tool",
+  "main": "index.ts",
+  "scripts": {
+    "unbuild": "unbuild"
+  },
+  "keywords": [
+    "unbuild"
+  ],
+  "author": "poi",
+  "license": "MIT",
+  "dependencies": {
+    "unbuild": "^0.7.4"
+  }
+}
